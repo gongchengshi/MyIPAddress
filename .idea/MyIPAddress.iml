@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://C:/KangoFramework/src/js/chrome/includes" />
+    <content url="file://C:/KangoFramework/src/js/chrome/kango" />
+    <content url="file://C:/KangoFramework/src/js/chrome/kango-ui" />
+    <content url="file://C:/KangoFramework/src/js/common/kango" />
+    <content url="file://C:/KangoFramework/src/js/common/kango-ui" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+

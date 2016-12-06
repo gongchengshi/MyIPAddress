@@ -1,0 +1,15 @@
+{
+  "content_scripts": [
+     "jquery-2.0.0.min.js",
+     "content.js"
+  ],
+  "description": "Displays your IP address and proxy server information at the bottom right corner of the browser.",
+  "creator": "Jeremy McLain",
+  "background_scripts": [
+     "jquery-2.0.0.min.js",
+     "main.js"
+  ],
+  "homepage_url": "http://www.linkedin.com/profile/view?id=55963034",
+  "version": "0.9", 
+  "name": "My IP Address"
+}
